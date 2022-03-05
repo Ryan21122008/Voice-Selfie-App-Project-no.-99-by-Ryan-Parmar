@@ -1,0 +1,40 @@
+body{
+    text-align:center;
+    background-color:#eded18;
+}
+#footer{
+    position:fixed;
+    font-size:20px;
+    text-align:center;
+    bottom:0;
+    width:100%;
+    background-color:greenyellow;
+}
+h1{
+    font-size:40px;
+    margin-bottom:20px;
+    color:blue;
+}
+img{
+    width:800px;
+    height:500px;
+    margin-bottom:50px;
+    margin-top:10px;
+    box-shadow:5px 5px 15px black;
+}
+.column{
+    display:inline;
+    margin:20px;
+}
+#camera{
+    border:10px solid darkgrey;
+    width:500px;
+    height:400px;
+}
+img:hover{
+    border-radius:50px;
+}
+h4{
+    font-size:large;
+    font-weight:bold;
+}
